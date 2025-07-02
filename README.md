@@ -3,8 +3,17 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
+- [Excel Templates](#excel-templates)
 - [VBA](#vba)
 - [SQL](#sql)
+
+# Excel Templates
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| ⚙️ [State and local registration account tool](https://github.com/ADeabenderfer/State-and-Local-Registration-account-tool) | February 2024 | Excel and VBA | Developed a streamlined State and Local Registration account tracking tool for corporations with multiple internal companies, consolidating multi-sheet tracking into a single structured template with centralized data management, update logging, and company lookup functionality to improve accuracy and usability. |
+
+***
 
 # VBA
 
