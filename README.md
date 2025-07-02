@@ -12,6 +12,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | ⚙️ [State and local registration account tool](https://github.com/ADeabenderfer/State-and-Local-Registration-account-tool) | February 2024 | Excel and VBA | Developed a streamlined State and Local Registration account tracking tool for corporations with multiple internal companies, consolidating multi-sheet tracking into a single structured template with centralized data management, update logging, and company lookup functionality to improve accuracy and usability. |
+| 🧮 [Annualized Federal Tax Calc Template](https://github.com/ADeabenderfer/Annualized-Federal-Tax-Calc-Template) | 2021 | Excel | Created a reusable template to efficiently calculate and explain annualized federal taxes over three pay periods, streamlining employee inquiries and replacing manual tax breakdown processes. |
+
+
 
 ***
 
