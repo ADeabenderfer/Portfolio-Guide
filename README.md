@@ -38,7 +38,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
-| ⚙️ [Sheet-Happens]() | March 2025 - Present |  |
+| ⚙️ [Sheet-Happens](https://github.com/ADeabenderfer/Sheet-Happens) | March 2025 - Present |  |
 
 
 ***
