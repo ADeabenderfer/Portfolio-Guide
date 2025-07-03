@@ -6,6 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Excel Templates](#excel-templates)
 - [VBA](#vba)
 - [SQL](#sql)
+- [SmartSheet](#smartsheet)
 
 # Excel Templates
 
@@ -33,4 +34,11 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 
 ***
+# SmartSheet
 
+| Project Link | Completion Date | Project Description | 
+|---|---|---|
+| ⚙️ [Sheet-Happens]() | March 2025 - Present |  |
+
+
+***
