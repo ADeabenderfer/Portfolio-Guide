@@ -38,7 +38,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
-| ⚙️ [Sheet-Happens](https://github.com/ADeabenderfer/Sheet-Happens) | March 2025 - Present |  |
+| 📊 ➗📝[Sheet-Happens](https://github.com/ADeabenderfer/Sheet-Happens) | March 2025 - Present | This active project focuses on enhancing micro-level reporting capabilities through the creation of over 11 new dashboards. These dashboards required the development of numerous helper sheets and reports to gather and organize the data necessary for the requested dashboard views. The project also includes the addition of time and SLA tracking features for new items, improving monitoring and accountability. Despite having no prior experience with SmartSheet before, the project lead rapidly acquired expertise and is now the Subject Matter Expert (SME) for SmartSheet within the department. Additionally, the project involved identifying gaps in existing reporting processes, enabling targeted improvements and more comprehensive data insights to support decision-making. |
 
 
 ***
